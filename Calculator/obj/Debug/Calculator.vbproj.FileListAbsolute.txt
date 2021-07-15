@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\User\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\BACKUP PROJECT VB\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\BACKUP PROJECT VB\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\BACKUP PROJECT VB\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\BACKUP PROJECT VB\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\BACKUP PROJECT VB\Calculator\Calculator\obj\Debug\Calculator.pdb
